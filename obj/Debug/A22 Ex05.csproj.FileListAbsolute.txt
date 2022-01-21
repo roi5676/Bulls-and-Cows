@@ -1,0 +1,12 @@
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22 Ex05.csproj.AssemblyReference.cache
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22_Ex05.FormGameSettings.resources
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22 Ex05.csproj.GenerateResource.cache
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22 Ex05.csproj.CoreCompileInputs.cache
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\bin\Debug\A22 Ex05.exe.config
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\bin\Debug\A22 Ex05.exe
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\bin\Debug\A22 Ex05.pdb
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22 Ex05.exe
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22 Ex05.pdb
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22_Ex05.FormGameBoard.resources
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22_Ex05.Properties.Resources.resources
+C:\Users\vGRoi\source\repos\A22 Ex05\A22 Ex05\obj\Debug\A22_Ex05.FormColorPick.resources
